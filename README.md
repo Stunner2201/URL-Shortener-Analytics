@@ -1,4 +1,4 @@
-# LinkVault - URL Shortener & Analytics Platform
+# URL Shortener & Analytics Platform
 
 LinkVault is a full-stack web application designed for creating short URLs, tracking engagement analytics, and managing user profiles. The application features a premium dark glassmorphism user interface.
 
@@ -99,7 +99,7 @@ To run this project locally, you will need Node.js and npm installed.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/LinkVault.git
+git clone https://github.com/your-username/URL-Shortener-Analytics.git
 cd LinkVault
 ```
 
